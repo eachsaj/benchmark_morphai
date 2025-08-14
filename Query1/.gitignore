@@ -1,0 +1,14 @@
+# Maven target directory
+/target/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Output directory for Spark
+/out/
