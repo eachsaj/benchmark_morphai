@@ -25,6 +25,7 @@ tpchgen-cli --scale-factor 1 --output-dir ./ --format parquet
 
 [Image Source](https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-h_v2.17.1.pdf)
 
-# TPC-H Queries - Spark
+# To download the generated Parquet files
+Please use the [link](https://drive.google.com/drive/folders/1kkWU8VtIqB1-2Pu1u7Rg2fl2BeiE3k3F?usp=sharing) 
 
- 
+```
